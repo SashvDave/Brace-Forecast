@@ -27,7 +27,7 @@ There are hundreds of thousands of patients misdiagnosed for needing braces by c
 
 ## Contributors
 
-* Samarth Shah (samarthandroid145@gmail.com)
-* Kathan Sheth (sheth.kathan04@gmail.com)
-* Sashv Dave (davesashv@gmail.com)
-* Ved Joshi (behumble1907@gmail.com)
+* Samarth Shah 
+* Kathan Sheth 
+* Sashv Dave 
+* Ved Joshi 
